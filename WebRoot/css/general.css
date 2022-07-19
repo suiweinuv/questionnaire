@@ -1,0 +1,7 @@
+/* required 加 * */
+.required:before{
+	vertical-align:middle;
+ 	content: '*';
+ 	color: red;
+ 	font-size: 130%;
+}
